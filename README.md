@@ -1,2 +1,7 @@
 # hello-world
-Just another repository
+
+Hello Humans!
+
+Adding some text here to verify commit.
+
+Thanks
